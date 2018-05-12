@@ -28,6 +28,8 @@ creator:
     - http://en.wikipedia.org/wiki/Daniel_Defoe
     - http://www.gutenberg.org/browse/authors/j#a26500
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24915#Voyages-et-Aventures-Surprenantes-de-Robinson-Cruso-
 gutenberg_bookshelf: FR Illustrateurs
 gutenberg_issued: '2008-03-25'
 gutenberg_type: Text
