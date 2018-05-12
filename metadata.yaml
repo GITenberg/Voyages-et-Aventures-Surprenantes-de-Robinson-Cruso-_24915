@@ -1,0 +1,44 @@
+_repo: Voyages-et-Aventures-Surprenantes-de-Robinson-Cruso-_24915
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Dumoulin, F. A. L. (François Aimé Louis)
+    aliases:
+    - Dumoulin, François Aimé Louis
+    - Dumoulin, F. A. L. (Francois Aime Louis)
+    birthdate: 1753
+    deathdate: 1834
+    gutenberg_agent_id: '26811'
+    url: http://www.gutenberg.org/2009/agents/26811
+    wikipedia: http://fr.wikipedia.org/wiki/Fran%C3%A7ois_Aim%C3%A9_Louis_Dumoulin
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Defoe, Daniel
+    aliases:
+    - Moreton, Andrew
+    - John, Gabriel
+    - Defo, Daniel
+    deathdate: 1731
+    gutenberg_agent_id: '204'
+    url: http://www.gutenberg.org/2009/agents/204
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Daniel_Defoe
+    - http://www.gutenberg.org/browse/authors/j#a26500
+description: ''
+gutenberg_bookshelf: FR Illustrateurs
+gutenberg_issued: '2008-03-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24915'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Defoe, Daniel, 1661?-1731. Robinson Crusoe -- Illustrations'
+- !lcc 'NC'
+title: Voyages et Aventures Surprenantes de Robinson Crusoé
+url: http://www.gutenberg.org/ebooks/24915
